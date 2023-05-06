@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.jdt.internal.ui.fatjarpackager.JarPackageWizard"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="false"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\savka\OneDrive\Desktop\Practical2Code.zip"/>
+			<item value="C:\Users\savka\OneDrive\Desktop\6th Semester\CSE 376 Automated Testing\Code Coverage 12008520.zip"/>
+			<item value="C:\Users\savka\OneDrive\Desktop\6th Semester\CSE 376 Automated Testing\Roll No 11 PracticalTask4PrimeNumberChecker120008520.zip"/>
+			<item value="C:\Users\savka\OneDrive\Desktop\Nitish18.zip"/>
+			<item value="C:\Users\savka\OneDrive\Desktop\12008520 Savkare Jayesh Vitthal LoginPage.zip"/>
+			<item value="C:\Users\savka\OneDrive\Desktop\Jayesh12008520.zip"/>
+		</list>
+	</section>
+</section>
